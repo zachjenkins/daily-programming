@@ -20,3 +20,12 @@ I use various languages in this repository, depending on what I'm interested in 
 - Python
 - JavaScript
 - [Other languages you might experiment with]
+
+## Problems and Solutions
+
+### Arrays
+
+1. **Two Number Sum**
+    - Concept: Find two numbers that sum to a target value.
+
+   - [Python solution](./python/two_number_sum.py)
