@@ -29,3 +29,10 @@ I use various languages in this repository, depending on what I'm interested in 
     - Concept: Find two numbers that sum to a target value.
 
    - [Python solution](./python/two_number_sum.py)
+
+
+### Trees
+
+1. **Level Order Traversal**
+    - Concept: Perform a breadth-first traversal of a tree to print nodes level by level.
+    - [JavaScript solution](./javascript/levelOrderTraversal.ts)
